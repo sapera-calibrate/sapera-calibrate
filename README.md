@@ -14,7 +14,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-node.svg" width="20" align="top" />&nbsp; <samp>THESIS&nbsp;·&nbsp;claim-to-evidence</samp>
+### <samp>THESIS&nbsp;·&nbsp;claim-to-evidence</samp>
 
 I am interested in systems where trust cannot be assumed.
 
@@ -31,7 +31,7 @@ Four domains. One subject. Everything below is a version of it.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-cube.svg" width="20" align="top" />&nbsp; <samp>ARTIFACT_01&nbsp;·&nbsp;strayink</samp>
+### <samp>ARTIFACT_01&nbsp;·&nbsp;strayink</samp>
 
 > ### `StrayInk`
 > `building · private infrastructure · 2026`
@@ -52,7 +52,7 @@ Four domains. One subject. Everything below is a version of it.
 >
 > The interesting question is not whether an agent can act. It is what remains after it claims that it acted.
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-stack.svg" width="20" align="top" />&nbsp; <samp>ARTIFACT_02&nbsp;·&nbsp;homecru</samp>
+### <samp>ARTIFACT_02&nbsp;·&nbsp;homecru</samp>
 
 > ### `HomeCRU`
 > `pilot · Jaipur · 2026`
@@ -72,7 +72,7 @@ Four domains. One subject. Everything below is a version of it.
 >
 > The software is less interesting than the disagreement it makes impossible.
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-prism.svg" width="20" align="top" />&nbsp; <samp>ARTIFACT_03&nbsp;·&nbsp;economic-diff</samp>
+### <samp>ARTIFACT_03&nbsp;·&nbsp;economic-diff</samp>
 
 > ### `Economic Diff Engine`
 > `building · GitHub App · 2026`
@@ -95,42 +95,7 @@ Four domains. One subject. Everything below is a version of it.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-grid.svg" width="20" align="top" />&nbsp; <samp>FRAGMENTS&nbsp;·&nbsp;unsorted</samp>
-
-```text
-PG-TIE           tender preflight · renewable-energy bids
-                 read the RfS, decide bid or skip
-                 building · 2026
-
-ETCH160          content identity + provenance
-                 archived · 2025
-
-Fraktl           visual provenance / brand protection
-                 archived · 2025
-
-generative       opened heads · detached eyes
-                 mechanical organisms
-                 things that resemble evidence
-```
-
-Some repositories are tools. Some are specimens. The difference changes with time.
-
----
-
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-steps.svg" width="20" align="top" />&nbsp; <samp>MEASURED&nbsp;·&nbsp;stated-quantities</samp>
-
-```text
-3          systems in active development
-2          production languages holding one hashing primitive
-1          live construction pilot
-384-bit    perceptual hash · four lanes · all load-bearing
-Ed25519    execution receipts
-0          confidence assigned to unverifiable claims
-```
-
----
-
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-frame.svg" width="20" align="top" />&nbsp; <samp>CONSTRAINTS&nbsp;·&nbsp;non-negotiable</samp>
+### <samp>CONSTRAINTS&nbsp;·&nbsp;non-negotiable</samp>
 
 ```text
 01    Never call an estimate an exact value.
@@ -151,7 +116,7 @@ Ed25519    execution receipts
 
 ---
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-bars.svg" width="20" align="top" />&nbsp; <samp>INSTRUMENTS&nbsp;·&nbsp;on-the-table</samp>
+### <samp>INSTRUMENTS&nbsp;·&nbsp;on-the-table</samp>
 
 ```text
 lang       python · typescript · kotlin · sql
@@ -164,7 +129,7 @@ crypto     ed25519 · blake3 · merkle · tree-sitter · x402
 
 ---
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-pulse.svg" width="20" align="top" />&nbsp; <samp>OBSERVATION&nbsp;·&nbsp;what-github-recorded</samp>
+### <samp>OBSERVATION&nbsp;·&nbsp;what-github-recorded</samp>
 
 <div align="center">
 
@@ -176,7 +141,7 @@ crypto     ed25519 · blake3 · merkle · tree-sitter · x402
 
 ---
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-signal.svg" width="20" align="top" />&nbsp; <samp>CONTACT&nbsp;·&nbsp;open</samp>
+### <samp>CONTACT&nbsp;·&nbsp;open</samp>
 
 Building, research, collaborations.
 
@@ -198,20 +163,6 @@ flamel
 ```
 
 <sub>Not a title. Not quite a name. A remainder.</sub>
-
-</details>
-
-<details>
-<summary><samp><b>archive · recent observations</b></samp></summary>
-
-<br>
-
-```text
-2026.09   StrayInk        receipts moved from prototype to audit pack
-2026.08   Economic Diff   analysis moved from ast module to tree-sitter
-2026.08   HomeCRU         first construction workflow with real crews
-2026.06   ETCH160         provenance registry archived
-```
 
 </details>
 
