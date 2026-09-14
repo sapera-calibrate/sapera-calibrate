@@ -25,22 +25,66 @@
 
 <br>
 
+> ### `StrayInk`
+> <img src="https://img.shields.io/badge/building-0D1117?style=flat&labelColor=0D1117&color=FF5F1F" alt="building" />
+>
+> **A verification layer for AI agent execution.** An agent claims it did something. StrayInk produces a receipt that proves it — signed, batched, and checkable by someone who does not trust the agent or the vendor running it.
+>
+> ```
+> receipts   Ed25519 signatures, Merkle-batched into audit packs
+> hashing    OptiHash256-v1 — 384-bit quad-lane perceptual hash
+>            skeleton / DNA / vibe / focus, every lane load-bearing
+> parity     DOM hash identical across Python and TypeScript
+> billing    x402 micropayment tier before enterprise licensing
+> ```
+
+<br>
+
+> ### `HomeCRU`
+> <img src="https://img.shields.io/badge/live%20pilot%20%C2%B7%20Jaipur-0D1117?style=flat&labelColor=0D1117&color=FF5F1F" alt="live pilot" />
+>
+> **Construction and renovation project management.** The wedge is post-handover flat finishing — multi-trade, fixed scope, stage-paid. Written scope, stage plan, daily site record, handover checklist. Real crews, real sites.
+>
+> ```
+> attendance three signals — supervisor mark, camera photo, GPS
+> planning   code builds the work-unit set deterministically;
+>            the model only extracts spaces from the brief
+> money      stage-paid escrow, separate from the work record
+> stack      Express + Supabase + Kotlin/Compose partner app
+> ```
+
+<br>
+
+> ### `Economic Diff Engine`
+> <img src="https://img.shields.io/badge/building-0D1117?style=flat&labelColor=0D1117&color=FF5F1F" alt="building" />
+>
+> **A GitHub App that predicts what a merge does to your LLM bill.** It reads the pull request, finds every paid-API call site, and posts one comment before the code ships. It also flags unbounded loops around paid calls — the failure mode that produces a $40k weekend.
+>
+> ```
+> analysis   tree-sitter static parse, not regex, not the ast module
+> bounds     unknowns shown as true lower bounds with ≥,
+>            never an approximation wearing a confident label
+> surface    one PR comment, no dashboard to check
+> ```
+
+<br>
+
+### <samp>[ 02 ]&nbsp;&nbsp;ELSEWHERE</samp>
+
+<br>
+
 <samp>
 
-**`StrayInk`** &nbsp;─&nbsp; verification layer for AI agent execution
-<sub>Ed25519-signed receipts · Merkle-batched audit packs · 384-bit quad-lane perceptual hashing · DOM-hash parity across Python and TypeScript</sub>
-
-**`HomeCRU`** &nbsp;─&nbsp; construction and renovation project management, live pilot in Jaipur
-<sub>three-signal attendance · deterministic work-unit planning · stage-paid escrow</sub>
-
-**`Economic Diff Engine`** &nbsp;─&nbsp; a GitHub App that predicts what a merge does to your LLM bill
-<sub>tree-sitter static analysis · unbounded-loop detection · true lower bounds, never an approximation wearing a confident label</sub>
+`PG-TIE` &nbsp;─&nbsp; tender preflight for Indian renewable-energy bids — read the RfS, decide bid or skip
+`ETCH160` &nbsp;─&nbsp; 160-bit content hash with a provenance registry
+`Fraktl` &nbsp;─&nbsp; brand protection — perceptual hashing, crawling, takedowns
+`generative art` &nbsp;─&nbsp; mechanical-organic fusion, opened heads, detached eyes
 
 </samp>
 
 <br>
 
-### <samp>[ 02 ]&nbsp;&nbsp;STACK</samp>
+### <samp>[ 03 ]&nbsp;&nbsp;STACK</samp>
 
 ```
 lang      Python · TypeScript · Kotlin · SQL
@@ -53,19 +97,27 @@ crypto    Ed25519 · BLAKE3 · Merkle · tree-sitter · x402
 
 <br>
 
-### <samp>[ 03 ]&nbsp;&nbsp;SIGNAL</samp>
+### <samp>[ 04 ]&nbsp;&nbsp;SIGNAL</samp>
 
 <div align="center">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=sapera-calibrate&hide_border=true&background=0D1117&stroke=21262D&ring=FF5F1F&fire=FF5F1F&currStreakLabel=FF5F1F&sideLabels=8B949E&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=sapera-calibrate&hide_border=true&background=0D1117&stroke=21262D&ring=FF5F1F&fire=FF5F1F&currStreakLabel=FF5F1F&sideLabels=8B949E&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280&v=2" alt="streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sapera-calibrate&bg_color=0D1117&color=FF5F1F&line=FF5F1F&point=FF8A3D&area=true&area_color=FF5F1F&hide_border=true&custom_title=flux&radius=4&v=2" width="100%" alt="activity" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sapera-calibrate&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true&bg_color=0D1117&icon_color=FF5F1F&text_color=8B949E&ring_color=FF5F1F&v=2" alt="stats" />
 
 </div>
 
 <br>
 
-### <samp>[ 04 ]&nbsp;&nbsp;FLUX</samp>
+### <samp>[ 05 ]&nbsp;&nbsp;FLUX</samp>
 
 <div align="center">
 
