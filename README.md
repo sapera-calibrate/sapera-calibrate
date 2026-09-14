@@ -71,16 +71,13 @@
 
 ### <samp>[ 02 ]&nbsp;&nbsp;ELSEWHERE</samp>
 
-<br>
-
-<samp>
-
-`PG-TIE` &nbsp;─&nbsp; tender preflight for Indian renewable-energy bids — read the RfS, decide bid or skip
-`ETCH160` &nbsp;─&nbsp; 160-bit content hash with a provenance registry
-`Fraktl` &nbsp;─&nbsp; brand protection — perceptual hashing, crawling, takedowns
-`generative art` &nbsp;─&nbsp; mechanical-organic fusion, opened heads, detached eyes
-
-</samp>
+```
+PG-TIE           tender preflight for Indian renewable-energy bids
+                 read the RfS, decide bid or skip
+ETCH160          160-bit content hash with a provenance registry
+Fraktl           brand protection — perceptual hashing, crawling, takedowns
+generative art   mechanical-organic fusion, opened heads, detached eyes
+```
 
 <br>
 
@@ -104,14 +101,6 @@ crypto    Ed25519 · BLAKE3 · Merkle · tree-sitter · x402
 <br>
 
 <img src="https://streak-stats.demolab.com?user=sapera-calibrate&hide_border=true&background=0D1117&stroke=21262D&ring=FF5F1F&fire=FF5F1F&currStreakLabel=FF5F1F&sideLabels=8B949E&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280&v=2" alt="streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sapera-calibrate&bg_color=0D1117&color=FF5F1F&line=FF5F1F&point=FF8A3D&area=true&area_color=FF5F1F&hide_border=true&custom_title=flux&radius=4&v=2" width="100%" alt="activity" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sapera-calibrate&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true&bg_color=0D1117&icon_color=FF5F1F&text_color=8B949E&ring_color=FF5F1F&v=2" alt="stats" />
 
 </div>
 
