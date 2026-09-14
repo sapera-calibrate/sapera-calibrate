@@ -4,13 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=42&duration=2600&pause=99999&color=FF5F1F&center=true&vCenter=true&width=620&height=80&lines=66+6C+61+6D+65+6C&repeat=false" alt="66 6C 61 6D 65 6C" />
 
-<br>
-
-<samp><sub>artifact · proof · anomaly · memory</sub></samp>
+<samp><sub>artifact&nbsp;·&nbsp;proof&nbsp;·&nbsp;anomaly&nbsp;·&nbsp;memory</sub></samp>
 
 <br><br>
 
-<a href="https://m1c.vercel.app/"><img src="https://img.shields.io/badge/site-0D1117?style=flat&labelColor=0D1117&color=FF5F1F" alt="site" /></a> <a href="https://x.com/m_1m1_c"><img src="https://img.shields.io/badge/x-0D1117?style=flat&labelColor=0D1117&color=FF5F1F" alt="x" /></a> <a href="https://www.linkedin.com/in/parag707subreal/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=flat&labelColor=0D1117&color=FF5F1F" alt="linkedin" /></a> <a href="mailto:paragchoudhary3134@gmail.com"><img src="https://img.shields.io/badge/mail-0D1117?style=flat&labelColor=0D1117&color=FF5F1F" alt="mail" /></a>
+<a href="https://m1c.vercel.app/"><img src="https://img.shields.io/badge/site-0D1117?style=flat&labelColor=0D1117&color=FF5F1F" alt="site" /></a> <a href="https://x.com/m_1m1_c"><img src="https://img.shields.io/badge/x-0D1117?style=flat&labelColor=0D1117&color=22D3EE" alt="x" /></a> <a href="https://www.linkedin.com/in/parag707subreal/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=flat&labelColor=0D1117&color=FF5F1F" alt="linkedin" /></a> <a href="mailto:paragchoudhary3134@gmail.com"><img src="https://img.shields.io/badge/mail-0D1117?style=flat&labelColor=0D1117&color=22D3EE" alt="mail" /></a>
 
 </div>
 
@@ -21,17 +19,15 @@
 I am interested in systems where trust cannot be assumed.
 
 ```text
-agents         →  prove what happened
-software       →  expose what it costs
-construction   →  record what was actually done
-identity       →  preserve what was actually there
+agents          →   prove what happened
+software        →   expose what it costs
+construction    →   record what was actually done
+identity        →   preserve what was actually there
+
+CLAIM           →   EVIDENCE
 ```
 
-The recurring subject is the same.
-
-```text
-CLAIM  →  EVIDENCE
-```
+Four domains. One subject. Everything below is a version of it.
 
 ---
 
@@ -42,13 +38,11 @@ CLAIM  →  EVIDENCE
 >
 > **A verification layer for AI agent execution.**
 >
-> An agent says:
+> An agent says `done`. StrayInk asks for the receipt.
 >
-> `done`
+> Execution becomes a signed object — checkable by someone who trusts neither the agent nor the vendor running it. The machine may still be lying. At least the lie has to leave evidence.
 >
-> StrayInk asks for the receipt. Execution becomes a signed object — Ed25519, Merkle-batched, checkable by someone who trusts neither the agent nor the vendor running it. The machine may still be lying. At least the lie has to leave evidence.
->
-> ```
+> ```text
 > receipt      signed execution record
 > batch        Merkle audit pack
 > hash         OptiHash256-v1 · 384-bit · four lanes
@@ -69,11 +63,11 @@ CLAIM  →  EVIDENCE
 >
 > HomeCRU records the interval.
 >
-> ```
-> attendance    supervisor · camera · GPS
-> planning      deterministic work-unit construction
-> payment       stage-paid escrow
-> record        scope · progress · handover
+> ```text
+> attendance   supervisor · camera · GPS
+> planning     deterministic work-unit construction
+> payment      stage-paid escrow
+> record       scope · progress · handover
 > ```
 >
 > The software is less interesting than the disagreement it makes impossible.
@@ -85,9 +79,11 @@ CLAIM  →  EVIDENCE
 >
 > **Static economic analysis for LLM API usage.**
 >
-> A pull request arrives carrying a second payload. The engine follows paid API calls through the syntax tree and leaves the answer where the decision already happens — inside the PR.
+> A pull request arrives carrying a second payload: what this code will cost to run.
 >
-> ```
+> The engine follows paid API calls through the syntax tree and leaves the answer where the decision already happens — inside the PR.
+>
+> ```text
 > parser       tree-sitter
 > output       lower bounds
 > uncertainty  ≥
@@ -102,18 +98,19 @@ CLAIM  →  EVIDENCE
 ### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-grid.svg" width="20" align="top" />&nbsp; <samp>FRAGMENTS&nbsp;·&nbsp;unsorted</samp>
 
 ```text
-PG-TIE             tender preflight · Indian renewable-energy bids
-                   building · 2026
+PG-TIE           tender preflight · renewable-energy bids
+                 read the RfS, decide bid or skip
+                 building · 2026
 
-ETCH160            content identity + provenance
-                   archived · 2025
+ETCH160          content identity + provenance
+                 archived · 2025
 
-Fraktl             visual provenance / brand protection
-                   archived · 2025
+Fraktl           visual provenance / brand protection
+                 archived · 2025
 
-generative work    opened heads · detached eyes
-                   mechanical organisms
-                   things that resemble evidence
+generative       opened heads · detached eyes
+                 mechanical organisms
+                 things that resemble evidence
 ```
 
 Some repositories are tools. Some are specimens. The difference changes with time.
@@ -123,10 +120,10 @@ Some repositories are tools. Some are specimens. The difference changes with tim
 ### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-steps.svg" width="20" align="top" />&nbsp; <samp>MEASURED&nbsp;·&nbsp;stated-quantities</samp>
 
 ```text
-3          systems currently in active development
-2          production languages holding the same hashing primitive
+3          systems in active development
+2          production languages holding one hashing primitive
 1          live construction pilot
-384-bit    perceptual hash, four lanes, all load-bearing
+384-bit    perceptual hash · four lanes · all load-bearing
 Ed25519    execution receipts
 0          confidence assigned to unverifiable claims
 ```
@@ -136,20 +133,20 @@ Ed25519    execution receipts
 ### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-frame.svg" width="20" align="top" />&nbsp; <samp>CONSTRAINTS&nbsp;·&nbsp;non-negotiable</samp>
 
 ```text
-01   Never call an estimate an exact value.
+01    Never call an estimate an exact value.
 
-02   If a machine claims it happened,
-     preserve the evidence of the claim.
+02    If a machine claims it happened,
+      preserve the evidence of the claim.
 
-03   Prefer deterministic machinery
-     around probabilistic machinery.
+03    Prefer deterministic machinery
+      around probabilistic machinery.
 
-04   Put the output where the decision occurs.
+04    Put the output where the decision occurs.
 
-05   A dashboard is not a substitute for a record.
+05    A dashboard is not a substitute for a record.
 
-06   Delete abstractions that exist only
-     to make a system look sophisticated.
+06    Delete abstractions that exist only
+      to make a system look sophisticated.
 ```
 
 ---
@@ -157,18 +154,12 @@ Ed25519    execution receipts
 ### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-bars.svg" width="20" align="top" />&nbsp; <samp>INSTRUMENTS&nbsp;·&nbsp;on-the-table</samp>
 
 ```text
-python        typescript        kotlin        sql
-
-fastapi       node              express
-
-postgres      supabase
-
-react         vite              compose       capacitor
-
-railway       vercel            actions       gradle
-
-ed25519       blake3            merkle
-tree-sitter   x402
+lang       python · typescript · kotlin · sql
+runtime    fastapi · node · express
+data       postgres · supabase
+client     react · vite · compose · capacitor
+infra      railway · vercel · actions · gradle
+crypto     ed25519 · blake3 · merkle · tree-sitter · x402
 ```
 
 ---
@@ -179,7 +170,7 @@ tree-sitter   x402
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=sapera-calibrate&hide_border=true&background=0D1117&stroke=21262D&ring=FF5F1F&fire=FF5F1F&currStreakLabel=FF5F1F&sideLabels=8B949E&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280&v=2" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=sapera-calibrate&hide_border=true&background=00000000&stroke=30363D&ring=FF5F1F&fire=FF5F1F&currStreakLabel=FF5F1F&sideLabels=22D3EE&currStreakNum=22D3EE&sideNums=22D3EE&dates=8B949E&v=5" alt="streak" />
 
 </div>
 
@@ -187,13 +178,13 @@ tree-sitter   x402
 
 ### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-signal.svg" width="20" align="top" />&nbsp; <samp>CONTACT&nbsp;·&nbsp;open</samp>
 
-building · research · collaborations
+Building, research, collaborations.
 
 ```text
-m1c.vercel.app
-paragchoudhary3134@gmail.com
-x.com/m_1m1_c
-linkedin.com/in/parag707subreal
+site       m1c.vercel.app
+mail       paragchoudhary3134@gmail.com
+x          x.com/m_1m1_c
+linkedin   linkedin.com/in/parag707subreal
 ```
 
 <details>
@@ -216,17 +207,10 @@ flamel
 <br>
 
 ```text
-2026.09   StrayInk
-          execution receipts moved from prototype → audit pack
-
-2026.08   Economic Diff
-          static analysis moved from the ast module → tree-sitter
-
-2026.08   HomeCRU
-          first construction workflow deployed with real crews
-
-2026.06   ETCH160
-          provenance registry archived
+2026.09   StrayInk        receipts moved from prototype to audit pack
+2026.08   Economic Diff   analysis moved from ast module to tree-sitter
+2026.08   HomeCRU         first construction workflow with real crews
+2026.06   ETCH160         provenance registry archived
 ```
 
 </details>
@@ -239,6 +223,6 @@ flamel
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sapera-calibrate&color=FF5F1F&style=flat&label=signal+received" alt="signal received" />
+<img src="https://komarev.com/ghpvc/?username=sapera-calibrate&color=22D3EE&style=flat&label=signal+received" alt="signal received" />
 
 </div>
