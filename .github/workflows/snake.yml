@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=FF5F1F&color_dots=161B22,3a1c08,7a3a10,c25415,FF5F1F
-            dist/snake-light.svg?palette=github-light&color_snake=FF5F1F&color_dots=ebedf0,ffd6bd,ffab7a,ff8038,FF5F1F
+            dist/snake.svg?color_snake=FF5F1F&color_dots=161B22,6b3410,a85118,e06a15,FF8A3D
+            dist/snake-light.svg?color_snake=FF5F1F&color_dots=ebedf0,ffcda8,ff9f5c,ff7420,FF5F1F
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
