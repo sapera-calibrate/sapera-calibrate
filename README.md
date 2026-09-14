@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/mark.svg" width="150" alt="" />
+<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/mark.svg" width="150" alt="" />
 
 <br>
 
@@ -16,13 +16,13 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/rule.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/rule.svg" width="100%" alt="" />
 
 </div>
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/i-node.svg" width="22" align="top" />&nbsp; <samp>THESIS</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-node.svg" width="22" align="top" />&nbsp; <samp>THESIS</samp>
 
 I am interested in systems where trust cannot be assumed.
 
@@ -41,11 +41,11 @@ CLAIM  →  EVIDENCE
 
 <br>
 
-<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/rule.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/rule.svg" width="100%" alt="" />
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/i-cube.svg" width="22" align="top" />&nbsp; <samp>ARTIFACT / I</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-cube.svg" width="22" align="top" />&nbsp; <samp>ARTIFACT / I</samp>
 
 <br>
 
@@ -72,7 +72,7 @@ CLAIM  →  EVIDENCE
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/i-stack.svg" width="22" align="top" />&nbsp; <samp>ARTIFACT / II</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-stack.svg" width="22" align="top" />&nbsp; <samp>ARTIFACT / II</samp>
 
 <br>
 
@@ -96,7 +96,7 @@ CLAIM  →  EVIDENCE
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/i-prism.svg" width="22" align="top" />&nbsp; <samp>ARTIFACT / III</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-prism.svg" width="22" align="top" />&nbsp; <samp>ARTIFACT / III</samp>
 
 <br>
 
@@ -119,11 +119,11 @@ CLAIM  →  EVIDENCE
 
 <br>
 
-<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/rule.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/rule.svg" width="100%" alt="" />
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/i-grid.svg" width="22" align="top" />&nbsp; <samp>FRAGMENTS</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-grid.svg" width="22" align="top" />&nbsp; <samp>FRAGMENTS</samp>
 
 ```text
 PG-TIE             tender preflight · Indian renewable-energy bids
@@ -144,7 +144,7 @@ Some repositories are tools. Some are specimens. The difference changes with tim
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/i-steps.svg" width="22" align="top" />&nbsp; <samp>MEASURED</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-steps.svg" width="22" align="top" />&nbsp; <samp>MEASURED</samp>
 
 ```text
 3          systems currently in active development
@@ -157,7 +157,7 @@ Ed25519    execution receipts
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/i-frame.svg" width="22" align="top" />&nbsp; <samp>CONSTRAINTS</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-frame.svg" width="22" align="top" />&nbsp; <samp>CONSTRAINTS</samp>
 
 ```text
 01   Never call an estimate an exact value.
@@ -178,7 +178,7 @@ Ed25519    execution receipts
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/i-bars.svg" width="22" align="top" />&nbsp; <samp>INSTRUMENTS</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-bars.svg" width="22" align="top" />&nbsp; <samp>INSTRUMENTS</samp>
 
 ```text
 python        typescript        kotlin        sql
@@ -197,7 +197,7 @@ tree-sitter   x402
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/i-pulse.svg" width="22" align="top" />&nbsp; <samp>OBSERVATION</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-pulse.svg" width="22" align="top" />&nbsp; <samp>OBSERVATION</samp>
 
 <div align="center">
 
@@ -217,11 +217,11 @@ tree-sitter   x402
 
 <br>
 
-<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/rule.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/rule.svg" width="100%" alt="" />
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/i-signal.svg" width="22" align="top" />&nbsp; <samp>CONTACT</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-signal.svg" width="22" align="top" />&nbsp; <samp>CONTACT</samp>
 
 building · research · collaborations
 
@@ -273,7 +273,7 @@ flamel
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/assets/rule.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/rule.svg" width="100%" alt="" />
 
 <br><br>
 
