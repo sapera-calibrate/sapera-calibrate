@@ -2,27 +2,21 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/mark.svg" width="150" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=42&duration=2600&pause=99999&color=FF5F1F&center=true&vCenter=true&width=620&height=80&lines=66+6C+61+6D+65+6C&repeat=false" alt="66 6C 61 6D 65 6C" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=42&duration=2600&pause=99999&color=FF5F1F&center=true&vCenter=true&width=620&height=80&lines=66+6C+61+6D+65+6C&repeat=false" alt="66 6C 61 6D 65 6C" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3200&pause=1400&color=8B949E&center=true&vCenter=true&width=560&height=30&lines=artifact+%C2%B7+proof+%C2%B7+anomaly+%C2%B7+memory;systems+for+things+that+should+not+be+trusted;Jaipur+%C2%B7+India" alt="" />
+<samp><sub>artifact · proof · anomaly · memory</sub></samp>
 
 <br><br>
 
 <a href="https://m1c.vercel.app/"><img src="https://img.shields.io/badge/site-0D1117?style=flat&labelColor=0D1117&color=FF5F1F" alt="site" /></a> <a href="https://x.com/m_1m1_c"><img src="https://img.shields.io/badge/x-0D1117?style=flat&labelColor=0D1117&color=FF5F1F" alt="x" /></a> <a href="https://www.linkedin.com/in/parag707subreal/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=flat&labelColor=0D1117&color=FF5F1F" alt="linkedin" /></a> <a href="mailto:paragchoudhary3134@gmail.com"><img src="https://img.shields.io/badge/mail-0D1117?style=flat&labelColor=0D1117&color=FF5F1F" alt="mail" /></a>
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/rule.svg" width="100%" alt="" />
-
 </div>
 
-<br>
+---
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-node.svg" width="22" align="top" />&nbsp; <samp>THESIS</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-node.svg" width="20" align="top" />&nbsp; <samp>THESIS&nbsp;·&nbsp;claim-to-evidence</samp>
 
 I am interested in systems where trust cannot be assumed.
 
@@ -39,15 +33,9 @@ The recurring subject is the same.
 CLAIM  →  EVIDENCE
 ```
 
-<br>
+---
 
-<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/rule.svg" width="100%" alt="" />
-
-<br>
-
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-cube.svg" width="22" align="top" />&nbsp; <samp>ARTIFACT / I</samp>
-
-<br>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-cube.svg" width="20" align="top" />&nbsp; <samp>ARTIFACT_01&nbsp;·&nbsp;strayink</samp>
 
 > ### `StrayInk`
 > `building · private infrastructure · 2026`
@@ -70,11 +58,7 @@ CLAIM  →  EVIDENCE
 >
 > The interesting question is not whether an agent can act. It is what remains after it claims that it acted.
 
-<br>
-
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-stack.svg" width="22" align="top" />&nbsp; <samp>ARTIFACT / II</samp>
-
-<br>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-stack.svg" width="20" align="top" />&nbsp; <samp>ARTIFACT_02&nbsp;·&nbsp;homecru</samp>
 
 > ### `HomeCRU`
 > `pilot · Jaipur · 2026`
@@ -94,11 +78,7 @@ CLAIM  →  EVIDENCE
 >
 > The software is less interesting than the disagreement it makes impossible.
 
-<br>
-
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-prism.svg" width="22" align="top" />&nbsp; <samp>ARTIFACT / III</samp>
-
-<br>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-prism.svg" width="20" align="top" />&nbsp; <samp>ARTIFACT_03&nbsp;·&nbsp;economic-diff</samp>
 
 > ### `Economic Diff Engine`
 > `building · GitHub App · 2026`
@@ -117,13 +97,9 @@ CLAIM  →  EVIDENCE
 >
 > It does not predict the future. It calculates the portion of the future that has already been written.
 
-<br>
+---
 
-<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/rule.svg" width="100%" alt="" />
-
-<br>
-
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-grid.svg" width="22" align="top" />&nbsp; <samp>FRAGMENTS</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-grid.svg" width="20" align="top" />&nbsp; <samp>FRAGMENTS&nbsp;·&nbsp;unsorted</samp>
 
 ```text
 PG-TIE             tender preflight · Indian renewable-energy bids
@@ -142,9 +118,9 @@ generative work    opened heads · detached eyes
 
 Some repositories are tools. Some are specimens. The difference changes with time.
 
-<br>
+---
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-steps.svg" width="22" align="top" />&nbsp; <samp>MEASURED</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-steps.svg" width="20" align="top" />&nbsp; <samp>MEASURED&nbsp;·&nbsp;stated-quantities</samp>
 
 ```text
 3          systems currently in active development
@@ -155,9 +131,9 @@ Ed25519    execution receipts
 0          confidence assigned to unverifiable claims
 ```
 
-<br>
+---
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-frame.svg" width="22" align="top" />&nbsp; <samp>CONSTRAINTS</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-frame.svg" width="20" align="top" />&nbsp; <samp>CONSTRAINTS&nbsp;·&nbsp;non-negotiable</samp>
 
 ```text
 01   Never call an estimate an exact value.
@@ -176,9 +152,9 @@ Ed25519    execution receipts
      to make a system look sophisticated.
 ```
 
-<br>
+---
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-bars.svg" width="22" align="top" />&nbsp; <samp>INSTRUMENTS</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-bars.svg" width="20" align="top" />&nbsp; <samp>INSTRUMENTS&nbsp;·&nbsp;on-the-table</samp>
 
 ```text
 python        typescript        kotlin        sql
@@ -195,9 +171,9 @@ ed25519       blake3            merkle
 tree-sitter   x402
 ```
 
-<br>
+---
 
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-pulse.svg" width="22" align="top" />&nbsp; <samp>OBSERVATION</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-pulse.svg" width="20" align="top" />&nbsp; <samp>OBSERVATION&nbsp;·&nbsp;what-github-recorded</samp>
 
 <div align="center">
 
@@ -205,23 +181,11 @@ tree-sitter   x402
 
 <img src="https://streak-stats.demolab.com?user=sapera-calibrate&hide_border=true&background=0D1117&stroke=21262D&ring=FF5F1F&fire=FF5F1F&currStreakLabel=FF5F1F&sideLabels=8B949E&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280&v=2" alt="streak" />
 
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/output/snake.svg" />
-</picture>
-
 </div>
 
-<br>
+---
 
-<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/rule.svg" width="100%" alt="" />
-
-<br>
-
-### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-signal.svg" width="22" align="top" />&nbsp; <samp>CONTACT</samp>
+### <img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/i-signal.svg" width="20" align="top" />&nbsp; <samp>CONTACT&nbsp;·&nbsp;open</samp>
 
 building · research · collaborations
 
@@ -231,8 +195,6 @@ paragchoudhary3134@gmail.com
 x.com/m_1m1_c
 linkedin.com/in/parag707subreal
 ```
-
-<br>
 
 <details>
 <summary><samp><b>open the name</b></samp></summary>
@@ -249,7 +211,7 @@ flamel
 </details>
 
 <details>
-<summary><samp><b>archive / recent observations</b></samp></summary>
+<summary><samp><b>archive · recent observations</b></samp></summary>
 
 <br>
 
@@ -269,13 +231,9 @@ flamel
 
 </details>
 
-<br>
+---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/sapera-calibrate/sapera-calibrate/main/rule.svg" width="100%" alt="" />
-
-<br><br>
 
 <sub><samp>the machine remembers what the author meant to forget</samp></sub>
 
