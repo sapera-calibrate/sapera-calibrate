@@ -1,17 +1,16 @@
-<!-- ░░ HEADER WAVE ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1A0B05,75:FF5F1F,100:22D3EE&height=140&section=header&reversal=true" width="100%" />
-
 <div align="center">
+
+<samp>▀▄▀▄▀▄▀▄▀▄&nbsp;&nbsp;▀&nbsp;▄&nbsp;▀&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;▪&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;▄&nbsp;▀&nbsp;▄&nbsp;&nbsp;▄▀▄▀▄▀▄▀▄▀</samp>
+
+<img src="https://placehold.co/12x12/FF5F1F/FF5F1F/png" /> <img src="https://placehold.co/8x8/FF5F1F/FF5F1F/png" /> <img src="https://placehold.co/4x4/FF5F1F/FF5F1F/png" /> <img src="https://placehold.co/2x2/FF5F1F/FF5F1F/png" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://placehold.co/2x2/22D3EE/22D3EE/png" /> <img src="https://placehold.co/4x4/22D3EE/22D3EE/png" /> <img src="https://placehold.co/8x8/22D3EE/22D3EE/png" /> <img src="https://placehold.co/12x12/22D3EE/22D3EE/png" />
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=42&duration=2600&pause=99999&color=FF5F1F&center=true&vCenter=true&width=620&height=80&lines=66+6C+61+6D+65+6C&repeat=false" alt="66 6C 61 6D 65 6C" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:22D3EE,100:0D1117&height=1" width="38%" />
+<samp>▪&nbsp;▫&nbsp;·&nbsp;·&nbsp;·</samp>&nbsp;&nbsp;<samp><sub>artifact&nbsp;·&nbsp;proof&nbsp;·&nbsp;anomaly&nbsp;·&nbsp;memory</sub></samp>&nbsp;&nbsp;<samp>·&nbsp;·&nbsp;·&nbsp;▫&nbsp;▪</samp>
 
-<samp><sub>artifact&nbsp;·&nbsp;proof&nbsp;·&nbsp;anomaly&nbsp;·&nbsp;memory</sub></samp>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:22D3EE,100:0D1117&height=1" width="38%" />
-
-<br><br>
+<br>
 
 <a href="https://m1c.vercel.app/"><img src="https://img.shields.io/badge/site-0D1117?style=flat-square&labelColor=0D1117&color=FF5F1F&logo=vercel&logoColor=FF5F1F" alt="site" /></a>&nbsp;
 <a href="https://x.com/m_1m1_c"><img src="https://img.shields.io/badge/x-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE&logo=x&logoColor=22D3EE" alt="x" /></a>&nbsp;
@@ -21,7 +20,9 @@
 </div>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:FF5F1F,50:22D3EE,80:FF5F1F,100:0D1117&height=2" width="100%" />
+
+<div align="center"><img src="https://placehold.co/8x8/FF5F1F/FF5F1F/png" />&nbsp;<samp>▪&nbsp;▫&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;▀▄▀&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;▫&nbsp;▪</samp>&nbsp;<img src="https://placehold.co/8x8/22D3EE/22D3EE/png" /></div>
+
 <br>
 
 ### <samp>THESIS&nbsp;·&nbsp;claim-to-evidence</samp>
@@ -38,12 +39,14 @@ identity        →   preserve what was actually there
 Four domains. One subject. Everything below is a version of it.
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:FF5F1F,50:22D3EE,80:FF5F1F,100:0D1117&height=2" width="100%" />
+
+<div align="center"><img src="https://placehold.co/8x8/FF5F1F/FF5F1F/png" />&nbsp;<samp>▪&nbsp;▫&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;▀▄▀&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;▫&nbsp;▪</samp>&nbsp;<img src="https://placehold.co/8x8/22D3EE/22D3EE/png" /></div>
+
 <br>
 
 ### <samp>Project_01&nbsp;·&nbsp;strayink</samp>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5F1F,100:0D1117&height=3" width="24%" />
+<img src="https://placehold.co/12x12/FF5F1F/FF5F1F/png" /> <img src="https://placehold.co/12x12/FF5F1F/FF5F1F/png" /> <img src="https://placehold.co/8x8/FF5F1F/FF5F1F/png" /> <img src="https://placehold.co/4x4/FF5F1F/FF5F1F/png" /> <img src="https://placehold.co/2x2/FF5F1F/FF5F1F/png" />&nbsp;<samp>·&nbsp;·&nbsp;·&nbsp;▌</samp>
 
 > ### `StrayInk`
 >
@@ -59,7 +62,7 @@ Four domains. One subject. Everything below is a version of it.
 
 ### <samp>Project_02&nbsp;·&nbsp;homecru</samp>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:0D1117&height=3" width="24%" />
+<img src="https://placehold.co/12x12/22D3EE/22D3EE/png" /> <img src="https://placehold.co/12x12/22D3EE/22D3EE/png" /> <img src="https://placehold.co/8x8/22D3EE/22D3EE/png" /> <img src="https://placehold.co/4x4/22D3EE/22D3EE/png" /> <img src="https://placehold.co/2x2/22D3EE/22D3EE/png" />&nbsp;<samp>·&nbsp;·&nbsp;·&nbsp;▌</samp>
 
 > ### `HomeCRU`
 > `pilot · Jaipur · 2026`
@@ -80,7 +83,9 @@ Four domains. One subject. Everything below is a version of it.
 > The software is less interesting than the disagreement it makes impossible.
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:FF5F1F,50:22D3EE,80:FF5F1F,100:0D1117&height=2" width="100%" />
+
+<div align="center"><img src="https://placehold.co/8x8/FF5F1F/FF5F1F/png" />&nbsp;<samp>▪&nbsp;▫&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;▀▄▀&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;▫&nbsp;▪</samp>&nbsp;<img src="https://placehold.co/8x8/22D3EE/22D3EE/png" /></div>
+
 <br>
 
 ### <samp>CONSTRAINTS&nbsp;·&nbsp;non-negotiable</samp>
@@ -103,7 +108,9 @@ Four domains. One subject. Everything below is a version of it.
 ```
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:FF5F1F,50:22D3EE,80:FF5F1F,100:0D1117&height=2" width="100%" />
+
+<div align="center"><img src="https://placehold.co/8x8/FF5F1F/FF5F1F/png" />&nbsp;<samp>▪&nbsp;▫&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;▀▄▀&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;▫&nbsp;▪</samp>&nbsp;<img src="https://placehold.co/8x8/22D3EE/22D3EE/png" /></div>
+
 <br>
 
 ### <samp>INSTRUMENTS&nbsp;·&nbsp;on-the-table</samp>
@@ -122,7 +129,9 @@ crypto     ed25519 · blake3 · merkle · tree-sitter · x402
 </div>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:FF5F1F,50:22D3EE,80:FF5F1F,100:0D1117&height=2" width="100%" />
+
+<div align="center"><img src="https://placehold.co/8x8/FF5F1F/FF5F1F/png" />&nbsp;<samp>▪&nbsp;▫&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;▀▄▀&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;▫&nbsp;▪</samp>&nbsp;<img src="https://placehold.co/8x8/22D3EE/22D3EE/png" /></div>
+
 <br>
 
 ### <samp>OBSERVATION&nbsp;·&nbsp;what-github-recorded</samp>
@@ -131,12 +140,14 @@ crypto     ed25519 · blake3 · merkle · tree-sitter · x402
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=sapera-calibrate&hide_border=true&background=00000000&stroke=1B2A33&ring=FF5F1F&fire=22D3EE&currStreakLabel=FF5F1F&sideLabels=22D3EE&currStreakNum=FFFFFF&sideNums=22D3EE&dates=5A6573&v=6" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=sapera-calibrate&hide_border=true&background=00000000&stroke=30363D&ring=FF5F1F&fire=22D3EE&currStreakLabel=FF5F1F&sideLabels=22D3EE&currStreakNum=22D3EE&sideNums=22D3EE&dates=5A6573&v=7" alt="streak" />
 
 </div>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:FF5F1F,50:22D3EE,80:FF5F1F,100:0D1117&height=2" width="100%" />
+
+<div align="center"><img src="https://placehold.co/8x8/FF5F1F/FF5F1F/png" />&nbsp;<samp>▪&nbsp;▫&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;▀▄▀&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;▫&nbsp;▪</samp>&nbsp;<img src="https://placehold.co/8x8/22D3EE/22D3EE/png" /></div>
+
 <br>
 
 ### <samp>CONTACT&nbsp;·&nbsp;open</samp>
@@ -165,19 +176,19 @@ flamel
 </details>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:FF5F1F,50:22D3EE,80:FF5F1F,100:0D1117&height=2" width="100%" />
 
 <div align="center">
 
+<samp>▪&nbsp;▫&nbsp;·&nbsp;·&nbsp;·</samp>&nbsp;&nbsp;<sub><samp>the machine remembers what the author meant to forget</samp></sub>&nbsp;&nbsp;<samp>·&nbsp;·&nbsp;·&nbsp;▫&nbsp;▪</samp>
+
 <br>
-
-<sub><samp>the machine remembers what the author meant to forget</samp></sub>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=sapera-calibrate&color=22D3EE&style=flat-square&label=signal+received" alt="signal received" />
 
-</div>
+<br><br>
 
-<!-- ░░ FOOTER WAVE ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,25:FF5F1F,55:1A0B05,100:0D1117&height=120&section=footer" width="100%" />
+<img src="https://placehold.co/12x12/22D3EE/22D3EE/png" /> <img src="https://placehold.co/8x8/22D3EE/22D3EE/png" /> <img src="https://placehold.co/4x4/22D3EE/22D3EE/png" /> <img src="https://placehold.co/2x2/22D3EE/22D3EE/png" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://placehold.co/2x2/FF5F1F/FF5F1F/png" /> <img src="https://placehold.co/4x4/FF5F1F/FF5F1F/png" /> <img src="https://placehold.co/8x8/FF5F1F/FF5F1F/png" /> <img src="https://placehold.co/12x12/FF5F1F/FF5F1F/png" />
+
+<samp>▄▀▄▀▄▀▄▀▄▀&nbsp;&nbsp;▄&nbsp;▀&nbsp;▄&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;▪&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;▀&nbsp;▄&nbsp;▀&nbsp;&nbsp;▀▄▀▄▀▄▀▄▀▄</samp>
+
+</div>
