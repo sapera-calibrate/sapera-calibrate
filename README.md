@@ -23,36 +23,25 @@ agents          →   prove what happened
 software        →   expose what it costs
 construction    →   record what was actually done
 identity        →   preserve what was actually there
-
-CLAIM           →   EVIDENCE
 ```
 
 Four domains. One subject. Everything below is a version of it.
 
 ---
 
-### <samp>ARTIFACT_01&nbsp;·&nbsp;strayink</samp>
+### <samp>Project_01&nbsp;·&nbsp;strayink</samp>
 
 > ### `StrayInk`
-> `building · private infrastructure · 2026`
 >
 > **A verification layer for AI agent execution.**
 >
-> An agent says `done`. StrayInk asks for the receipt.
+> An agent says `done`. StrayInk validate the receipt.
 >
-> Execution becomes a signed object — checkable by someone who trusts neither the agent nor the vendor running it. The machine may still be lying. At least the lie has to leave evidence.
->
-> ```text
-> receipt      signed execution record
-> batch        Merkle audit pack
-> hash         OptiHash256-v1 · 384-bit · four lanes
-> parity       Python ≡ TypeScript
-> payment      x402
-> ```
+> Execution becomes a signed object —> checkable by someone who trusts neither the agent nor the vendor running it. The machine may still be lying. At least the lie has to leave evidence.
 >
 > The interesting question is not whether an agent can act. It is what remains after it claims that it acted.
 
-### <samp>ARTIFACT_02&nbsp;·&nbsp;homecru</samp>
+### <samp>Project_02&nbsp;·&nbsp;homecru</samp>
 
 > ### `HomeCRU`
 > `pilot · Jaipur · 2026`
@@ -71,28 +60,6 @@ Four domains. One subject. Everything below is a version of it.
 > ```
 >
 > The software is less interesting than the disagreement it makes impossible.
-
-### <samp>ARTIFACT_03&nbsp;·&nbsp;economic-diff</samp>
-
-> ### `Economic Diff Engine`
-> `building · GitHub App · 2026`
->
-> **Static economic analysis for LLM API usage.**
->
-> A pull request arrives carrying a second payload: what this code will cost to run.
->
-> The engine follows paid API calls through the syntax tree and leaves the answer where the decision already happens — inside the PR.
->
-> ```text
-> parser       tree-sitter
-> output       lower bounds
-> uncertainty  ≥
-> failure      unbounded paid-call loops
-> interface    one comment
-> ```
->
-> It does not predict the future. It calculates the portion of the future that has already been written.
-
 ---
 
 ### <samp>CONSTRAINTS&nbsp;·&nbsp;non-negotiable</samp>
